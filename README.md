@@ -112,25 +112,6 @@ Provides operational insights into order performance.
 * Storytelling with Data
 * Power BI Development
 
----
-
-## 📸 Dashboard Preview
-
-### Overview Dashboard
-
-Dashboard_Screenshots/Overview_Analysis.png
-
-### Customer Analytics Dashboard
-
-(Add Screenshot Here)
-
-### Product Analytics Dashboard
-
-(Add Screenshot Here)
-
-### Order Analytics Dashboard
-
-(Add Screenshot Here)
 
 ---
 
@@ -140,4 +121,3 @@ This project demonstrates my ability to collect, clean, analyze, and visualize b
 
 ---
 
-### ⭐ If you found this project useful, feel free to explore the repository and connect with me.
